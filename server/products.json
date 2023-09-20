@@ -1,0 +1,239 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "productName": "Men’s Black Running",
+      "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu, enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim eget eu et lobortis faucibus.",
+      "price": 84,
+      "category": "Men",
+      "imgSrc": "assets/imgs/men/1.jpg",
+      "Rate": 3.9
+    },
+    {
+      "id": 2,
+      "productName": "Women’s Cream Suede",
+      "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu, enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim eget eu et lobortis faucibus.",
+      "price": 55,
+      "category": "Women",
+      "imgSrc": "assets/imgs/women/4.jpg",
+      "Rate": 2.1
+    },
+    {
+      "id": 3,
+      "productName": "Women’s Green Training",
+      "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu, enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim eget eu et lobortis faucibus.",
+      "price": 50,
+      "category": "Women",
+      "imgSrc": "assets/imgs/women/5.jpg",
+      "Rate": 4.6
+    },
+    {
+      "id": 4,
+      "productName": "Women’s Mint Sneaker",
+      "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu, enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim eget eu et lobortis faucibus.",
+      "price": 89,
+      "category": "Women",
+      "imgSrc": "assets/imgs/women/6.jpg",
+      "Rate": 3.9
+    },
+    {
+      "id": 5,
+      "productName": "Men’s Classic Blue",
+      "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu, enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim eget eu et lobortis faucibus.",
+      "price": 69,
+      "category": "Men",
+      "imgSrc": "assets/imgs/men/2.jpg",
+      "Rate": 2.5
+    },
+    {
+      "id": 6,
+      "productName": "Women’s Blue Training",
+      "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu, enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim eget eu et lobortis faucibus.",
+      "price": 60,
+      "category": "Women",
+      "imgSrc": "assets/imgs/women/1.jpg",
+      "Rate": 3.9
+    },
+    {
+      "id": 7,
+      "productName": "Men’s Classic Mint",
+      "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu, enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim eget eu et lobortis faucibus.",
+      "price": 80,
+      "category": "Men",
+      "imgSrc": "assets/imgs/men/3.jpg",
+      "Rate": 2.8
+    },
+    {
+      "id": 8,
+      "productName": "Men’s Earth-Tone Sneaker",
+      "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu, enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim eget eu et lobortis faucibus.",
+      "price": 75,
+      "category": "Men",
+      "imgSrc": "assets/imgs/men/4.jpg",
+      "Rate": 3.8
+    },
+    {
+      "id": 9,
+      "productName": "Women’s Candy City Run",
+      "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu, enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim eget eu et lobortis faucibus.",
+      "price": 55,
+      "category": "Women",
+      "imgSrc": "assets/imgs/women/2.jpg",
+      "Rate": 4.1
+    },
+    {
+      "id": 10,
+      "productName": "Women’s Choco City Run",
+      "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu, enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim eget eu et lobortis faucibus.",
+      "price": 65,
+      "category": "Women",
+      "imgSrc": "assets/imgs/women/3.jpg",
+      "Rate": 4.7
+    },
+    {
+      "id": 11,
+      "productName": "Men’s Green Running",
+      "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu, enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim eget eu et lobortis faucibus.",
+      "price": 105,
+      "category": "Men",
+      "imgSrc": "assets/imgs/men/5.jpg",
+      "Rate": 3.5
+    },
+    {
+      "id": 12,
+      "productName": "Men’s Moonstone Sneaker",
+      "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu, enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim eget eu et lobortis faucibus.",
+      "price": 75,
+      "category": "Men",
+      "imgSrc": "assets/imgs/men/6.jpg",
+      "Rate": 4.5
+    },
+    {
+      "id": 13,
+      "productName": "Men’s Navy Running",
+      "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu, enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim eget eu et lobortis faucibus.",
+      "price": 105,
+      "category": "Men",
+      "imgSrc": "assets/imgs/men/7.jpg",
+      "Rate": 3.2
+    },
+    {
+      "id": 14,
+      "productName": "Men’s Red Running",
+      "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu, enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim eget eu et lobortis faucibus.",
+      "price": 70,
+      "category": "Men",
+      "imgSrc": "assets/imgs/men/8.jpg",
+      "Rate": 3.7
+    },
+    {
+      "id": 15,
+      "productName": "Women’s Orange Sneaker",
+      "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu, enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim eget eu et lobortis faucibus.",
+      "price": 45,
+      "category": "Women",
+      "imgSrc": "assets/imgs/women/7.jpg",
+      "Rate": 3
+    },
+    {
+      "id": 16,
+      "productName": "Women’s Peach Training",
+      "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu, enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim eget eu et lobortis faucibus.",
+      "price": 58,
+      "category": "Women",
+      "imgSrc": "assets/imgs/women/8.jpg",
+      "Rate": 3.9
+    },
+    {
+      "id": 17,
+      "productName": "Women’s Pink Suede",
+      "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu, enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim eget eu et lobortis faucibus.",
+      "price": 60,
+      "category": "Women",
+      "imgSrc": "assets/imgs/women/9.jpg",
+      "Rate": 2.9
+    },
+    {
+      "id": 18,
+      "productName": "Women’s Pink Training",
+      "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu, enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim eget eu et lobortis faucibus.",
+      "price": 70,
+      "category": "Women",
+      "imgSrc": "assets/imgs/women/10.jpg",
+      "Rate": 3.3
+    },
+    {
+      "id": 19,
+      "productName": "Women’s Tan Sneaker",
+      "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu, enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim eget eu et lobortis faucibus.",
+      "price": 80,
+      "category": "Women",
+      "imgSrc": "assets/imgs/women/11.jpg",
+      "Rate": 4.8
+    },
+    {
+      "id": 20,
+      "productName": "Women’s Tosca City Run",
+      "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu, enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim eget eu et lobortis faucibus.",
+      "price": 65,
+      "category": "Women",
+      "imgSrc": "assets/imgs/women/12.jpg",
+      "Rate": 4.7
+    }
+  ],
+  "cart": [
+    {
+      "UserId": 1,
+      "date": "2023-09-20T02:34:34.332Z",
+      "products": [
+        {
+          "productId": 6,
+          "quantity": 7
+        },
+        {
+          "productId": 8,
+          "quantity": 10
+        }
+      ],
+      "id": 1
+    },
+    {
+      "UserId": 1,
+      "date": "2023-09-20T02:35:09.104Z",
+      "products": [
+        {
+          "productId": 6,
+          "quantity": 7
+        },
+        {
+          "productId": 8,
+          "quantity": 10
+        },
+        {
+          "productId": 7,
+          "quantity": 7
+        },
+        {
+          "productId": 5,
+          "quantity": 5
+        }
+      ],
+      "id": 2
+    },
+    {
+      "UserId": 1,
+      "date": "2023-09-20T02:35:33.455Z",
+      "products": [
+        {
+          "productId": 8,
+          "quantity": 7
+        },
+        {
+          "productId": 6,
+          "quantity": 2
+        }
+      ],
+      "id": 3
+    }
+  ]
+}
